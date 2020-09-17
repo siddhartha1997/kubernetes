@@ -19,3 +19,30 @@ G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconf
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
 G:\CTS Data\Stage IV\Dockersampleconfig\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\appsettings.json
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.exe
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.deps.json
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.json
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.dev.json
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.dll
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfoInputs.cache
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfo.cs
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.RazorTargetAssemblyInfo.cache
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.Manifest.cache
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.xml
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.dll
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.csproj.CopyComplete
+F:\COGNIZANT\Azure\learnings-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.csproj.CoreCompileInputs.cache
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cs
+F:\COGNIZANT\Azure\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cache
